@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* DBLP dataset used - [https://lfs.aminer.cn/lab-datasets/citation/citation-network1.zip](dataset)
+* DBLP dataset used - [dataset](https://lfs.aminer.cn/lab-datasets/citation/citation-network1.zip)
 
 ### Setup
 
@@ -40,4 +40,4 @@ $ pip install pandas
 
 ## Acknowledgments
 
-* Reference to the statictical language models ULM and WLM : [https://dl.acm.org/doi/10.1109/ICDM.2008.29](Formal Models for Expert Finding on DBLP Bibliography Data)
+* Reference to the statictical language models ULM and WLM : [Formal Models for Expert Finding on DBLP Bibliography Data](https://dl.acm.org/doi/10.1109/ICDM.2008.29)
